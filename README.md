@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Donda</h1>
-<h3 align="center">AI Engineer | Full Stack Developer with entrepreneurship experience</h3>
+<h3 align="center">AI Engineer | Full Stack Developer with Entrepreneurship Experience</h3>
 
-- 👨‍💻 **Currently Working:** as a Senior AI Engineer at [MSD](https://www.msd.com/) ~ *saving and improving lives*
-- 🛠️ **Background:** Former educator and entrepreneur turned Software Engineer & AI Enthusiast
+- 🛠️ **Background:** Former educator and entrepreneur turned Software/AI Engineer & AI Product Enthusiast
 - 🌱 **Currently Learning:** **System Design** and **Machine Learning**
-- 🚀 **Transition Story:** Passionate about leveraging software engineering skills to build intelligent AI systems
-- 💡 **Ask Me About:** AI, Machine Learning, Software Development, Martech, AdTech, and Analytics
+- 🚀 **Transition Story:** Passionate about leveraging software engineering skills to build intelligent systems
 - 🤝 **Looking to Collaborate On:** AI projects that have a positive impact
 
 - 📫 Let's connect and message me on <p align="left"><a href="https://www.linkedin.com/in/donda-yusuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="donda-yusuf" height="30" width="30" /></a></p> 
